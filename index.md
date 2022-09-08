@@ -1,10 +1,10 @@
 ---
 title: All things Racing!
 feature_text: |
-  ## **Salian Racing Team 🏎**
-  _All things Racing!_
+  # **Salian Racing Team**
+  All things Racing!
 feature_image: "https://raw.githubusercontent.com/SiddharthSalian/saliansiddharth/main/assets/images/team-lotus.png"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Payoja and Sid's F1 Notebook"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
