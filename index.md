@@ -1,8 +1,7 @@
 ---
 title: All things Racing!
 feature_text: |
-  # **Salian Racing Team**
-  All things Racing!
+  # Salian Racing Team
 feature_image: "https://raw.githubusercontent.com/SiddharthSalian/saliansiddharth/main/assets/images/team-lotus.png"
 excerpt: "Payoja and Sid's F1 Notebook"
 ---
