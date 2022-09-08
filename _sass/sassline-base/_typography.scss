@@ -60,7 +60,7 @@ a {
   // Headings. OpenType ligatures, discretionary ligatures and lining figures enabled if available.
   h1 {
     color: $white;
-    background-color: #242e2b;
+    background-color: $headingColour;
     font-family: unquote(map-get($headingtype, font-family));
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
