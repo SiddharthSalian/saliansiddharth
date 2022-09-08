@@ -96,7 +96,7 @@ lang: en-GB # Set the site language
 title: "SiddharthSalian" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Here I talk about all things Racing!" # Site description and default description, also used in jekyll-seo-tag
-url: "https://siddharthsalian.github.io/saliansiddharth/" # Site url, also used in jekyll-seo-tag
+url: "https://siddharthsalian.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "siddharthsalian1997@gmail.com"
@@ -122,7 +122,7 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 # 9. Site navigation
 navigation_header:
 - title: Home
-  url: /
+  url: /saliansiddharth
 - title: Elements
   url: /elements/
 - title: Blog
