@@ -1,9 +1,9 @@
 ---
 title: All things Racing!
 feature_text: |
-  ## **Salian Racing Team**
+  ## **Salian Racing Team 🏎**
   _All things Racing!_
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/images/pexels-chris-peeters-12801.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
